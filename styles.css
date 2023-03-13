@@ -12,13 +12,12 @@ body {
 }
 
 .button {
-  width: 200px;
-  padding: 25px;
+  padding: 15px;
   background-color: rgb(227, 49, 108);
   border: none;
   border-radius: 12px;
   font-family: "Montserrat", sans-serif;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 24px;
   color: white;
 }
